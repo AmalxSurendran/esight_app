@@ -1,4 +1,6 @@
 // ignore_for_file: constant_identifier_names, empty_constructor_bodies
+//change
+
 import 'package:esight_app/utilities/colors.dart';
 import 'package:esight_app/view/home_page.dart';
 import 'package:esight_app/view/landing_page.dart';
@@ -57,6 +59,7 @@ class MyApp extends StatelessWidget {
         );
       },
       transitionDuration: const Duration(milliseconds: 400),
+      //dont
     );
   }
 }
